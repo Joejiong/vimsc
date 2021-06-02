@@ -1,0 +1,2 @@
+# vimsc
+vimsc conf
